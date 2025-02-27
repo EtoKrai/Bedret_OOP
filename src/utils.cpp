@@ -7,3 +7,7 @@ void Sum(int a, int b){
 void Min(int a, int b){
     std::cout<<a-b<<std::endl;
 }
+
+void Umn(int a, int b){
+    std::cout<<a*b<<std::endl;
+}
